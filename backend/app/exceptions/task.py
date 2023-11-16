@@ -1,0 +1,2 @@
+class DBNotAvailableException( Exception ):
+    pass

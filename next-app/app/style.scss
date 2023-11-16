@@ -1,0 +1,44 @@
+@import "../node_modules/@ant-design/flowchart/dist/index.css";
+
+.node-setting-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 12px;
+  & > div {
+    display: flex;
+    flex-direction: column;
+  }
+  label {
+    font-weight: 600;
+    font-size: 1rem;
+  }
+}
+
+.flow-chart {
+  height: 100dvh;
+}
+
+.ant-input-number .ant-input-number-input {
+  font-size: 1.5rem !important;
+  font-weight: 400;
+}
+
+.ant-radio-wrapper span.ant-radio + * {
+  font-size: 1.2rem !important;
+  font-weight: 400;
+}
+
+.ant-select-selection-item {
+  font-size: 1.3rem !important;
+  font-weight: 400;
+}
+
+.ant-input {
+  font-size: 1.5rem !important;
+  font-weight: 400;
+}
+
+.x6-graph-background {
+  background: #faf5d5;
+}

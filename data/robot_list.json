@@ -1,0 +1,15 @@
+[
+    {
+        "id": "284abd87-225e-52d6-86dc-d38331d7a66a",
+        "name": "robot_284abd87-225e-52d6-86dc-d38331d7a66a",
+        "ip": "192.168.10.120",
+        "token": "RGlzdHJpYnV0b3I6NjJmMmYwZjFlZmYxMGQzMTUyYzk1ZjZmMDU5NjU3NmU0ODJiYjhlNDQ4MDY0MzNmNGNmOTI5NzkyODM0YjAxNA==",
+        "current_position": null,
+        "is_available": false,
+        "current_mission": null,
+        "pending_mission": [],
+        "current_task_id": null,
+        "current_task_status": null,
+        "mission_list": []
+    }
+]

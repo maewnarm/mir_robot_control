@@ -1,0 +1,38 @@
+[
+  {
+    "item": "REC1",
+    "type": "part",
+    "image": "http://localhost:8000/api/get_file/random_file_name_1.jpg",
+    "label": "Rectifier Part no.1"
+  },
+  {
+    "item": "REC2",
+    "type": "part",
+    "image": "http://localhost:8000/api/get_file/random_file_name_3.jpg",
+    "label": "Rectifier Part no.2"
+  },
+  {
+    "item": "REC3",
+    "type": "part",
+    "image": "http://localhost:8000/api/get_file/random_file_name_4.jpg",
+    "label": "Rectifier Part no.3"
+  },
+  {
+    "item": "BOX1",
+    "type": "box",
+    "image": "http://localhost:8000/api/get_file/random_file_name_2.jpg",
+    "label": "Rectifier BOX Model 1"
+  },
+  {
+    "item": "BOX2",
+    "type": "box",
+    "image": "http://localhost:8000/api/get_file/random_file_name_5.jpg",
+    "label": "Rectifier BOX Model 2"
+  },
+  {
+    "item": "BOX3",
+    "type": "box",
+    "image": "http://localhost:8000/api/get_file/random_file_name_5.jpg",
+    "label": "Rectifier BOX Model 3"
+  }
+]

@@ -1,0 +1,17 @@
+version: "3"
+services:
+  next-js:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        BUILD_ENV: .env
+    container_name: next-js
+    ports:
+        - "5000:3000"
+    networks:
+        - nextjs
+    restart: always
+networks:
+  nextjs:
+  
